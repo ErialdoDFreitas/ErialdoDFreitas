@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErialdoDFreitas
 - 👀 I’m interested in Microservices, Distributed Computing, Web Development, Software Architecture/Engineering, Artificial Intelligence and some other things
-- 📫 How to reach me by email: erialdodfreitas@gmail.com 
+- 📫 How to reach me by linkedin: https://linkedin.com/in/erialdo-d-freitas 
 
 <!---
 ErialdoDFreitas/ErialdoDFreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
