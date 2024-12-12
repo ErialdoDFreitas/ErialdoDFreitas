@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErialdoDFreitas
-- 👀 I’m interested in Microservices, Distributed Computing, Web Development, Software Architecture/Engineering, Artificial Intelligence and some other things
+- 👀 I’m interested in Software Architecture/Engineering, Artificial Intelligence, Data Science, Microservices, Distributed Computing, Web Development, Quantum Computing and some other things
 - 📫 How to reach me by linkedin: https://linkedin.com/in/erialdo-d-freitas 
 
 <!---
