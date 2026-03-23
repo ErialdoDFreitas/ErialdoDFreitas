@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErialdoDFreitas
-- 👀 I’m interested in Software Architecture/Engineering, Artificial Intelligence, Data Science, Microservices, Distributed Computing, Web Development, Quantum Computing and some other things
-- 📫 How to reach me by linkedin: https://linkedin.com/in/erialdo-d-freitas 
+- 👀 I’m interested in Software Architecture/Engineering, Data Science, Computational / Artificial Intelligence, Microservices, Web Development / Distributed Computing (Microservices, SOA, Containerization, HPC techiniquies), DevSecOps, Computer Networks, Information Security, Quantum Computing and some other things
+- 📫 How to reach me by linkedin: https://linkedin.com/in/erialdo-d-freitas
 
 <!---
 ErialdoDFreitas/ErialdoDFreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
